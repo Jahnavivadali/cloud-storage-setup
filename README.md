@@ -13,3 +13,7 @@ Objectives:
 Learn how to create and manage storage buckets on cloud platforms.
 Understand the principles of object-based storage systems.
 Gain practical knowledge in setting access permissions and uploading files.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/c5338271-c57c-494c-bd00-40e240c2dd5a)
